@@ -90,3 +90,49 @@ nav li a{
     font-weight: 400;
     font-size: 20px;
 }
+
+.get-in-touch{
+    display: flex;
+    margin: 92px 0px 14px 150px;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-in-touch-form input[type="text"], input[type="email"], .get-in-touch-form textarea{
+    height: 30px;
+    width: 194px;
+    border-radius: 10px;
+    background-color: white;
+    color: rgba(0, 0, 0, .50);
+    display: block;
+    width: 50%;
+    padding: 20px 271px 20px 32px;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 19px;
+    margin-right: 0;
+}
+.get-in-touch-heading-title{
+    color: #000000;
+    font-size: 97px;
+    font-weight: 700;
+}
+.get-in-touch-form{
+    color: #000000;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 92px 150px 9px 150px;
+}
+
+.btn-secondary{
+    background-color: #4E47FF;
+    color: white;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 19px 201px;
+    border: none;
+    border-radius: 10px;
+}
+
+
