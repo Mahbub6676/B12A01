@@ -58,3 +58,35 @@ nav li a{
     border: none;
     border-radius: 48px;
 }
+
+.productive-users{
+    padding: 50px 142px;
+    margin: 116px 159px 137px 141px;
+    border-radius: 24px;
+    border: none;
+    background-color: rgba(77, 71, 255, .10);
+}
+
+.productive-users-heading{
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    text-align: center;
+}
+
+.productive-users-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+}
+.productive-users-items-heading{
+    color: #4E47FF;
+    font-weight: 700;
+    font-size: 80px;
+}
+.productive-users-items-description{
+    color: rgba(0, 0, 0, .50);
+    font-weight: 400;
+    font-size: 20px;
+}
