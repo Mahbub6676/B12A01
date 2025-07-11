@@ -20,6 +20,9 @@ nav li a{
     padding: 12px 36px;
     border: none;
 }
+.btn-primary:hover{
+    background-color: yellow;
+}
 
 .nav-title{
     color: #4E47FF;
@@ -138,6 +141,10 @@ nav li a{
     border-radius: 10px;
 }
 
+.btn-secondary:hover{
+    background-color: yellow;
+}
+
 .footer-heading{
     color: #4E47FF;
     font-size: 100px;
@@ -168,4 +175,37 @@ footer ul a{
     justify-content: center;
     align-items: center;
     color: #8987A1;
+}
+
+.users-say-heading{
+    text-align: center;
+    color: #252432;
+    font-weight: 700;
+    font-size: 42px;
+    margin-bottom: 50px;
+}
+
+.users-say{
+    margin: 137px 150px;
+    background-color: rgba(255, 255, 255, .50);
+}
+
+.loved-by-designers-footer{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.loved{
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    border-radius: 14px;
+}
+
+.loved-by-designers-heading{
+    color: #1E1E1E;
+
+}
+.loved-by-designers{
+    background-color: white;
 }
